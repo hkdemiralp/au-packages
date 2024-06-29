@@ -1,10 +1,17 @@
+# Chocolatey Packages
+
 [![](https://ci.appveyor.com/api/projects/status/github/hkdemiralp/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/hkdemiralp/chocolatey-packages)
-[Update status](https://gist.github.com/hkdemiralp/20ad9cde3fff479e0439afb079004792)
 [![](http://transparent-favicon.info/favicon.ico)](#)
-[chocolatey/keenblade](https://chocolatey.org/profiles/keenblade)
+[![Update status](https://img.shields.io/badge/Update-Status-blue.svg)](https://gist.github.com/hkdemiralp/20ad9cde3fff479e0439afb079004792)
+[![](http://transparent-favicon.info/favicon.ico)](#)
+[![chocolatey/keenblade](https://img.shields.io/badge/Chocolatey-keenblade-greenblue.svg)](https://chocolatey.org/profiles/keenblade)
 
 This repository contains [chocolatey automatic packages](https://chocolatey.org/docs/automatic-packages).  
 The repository is setup so that you can manage your packages entirely from the GitHub web interface (using AppVeyor to update and push packages) and/or using the local repository copy.
+
+## The Repository layout
+
+This repository will contain both manually and automatically maintained Chocolatey packages. Currently, there are no packages, yet.
 
 ## Prerequisites
 
